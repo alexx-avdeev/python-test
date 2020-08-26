@@ -1,7 +1,7 @@
 # Clone the repo
 
 ```bash
-$ git@github.com:alexx-avdeev/python-test.git
+$ git clone git@github.com:alexx-avdeev/python-test.git
 $ cd python-test
 ```
 
